@@ -20,7 +20,7 @@
 </div>
 👨‍💻 About me:
 
-#Currently studying software engineering at IMTO University
+- Currently studying software engineering at IMTO University
 
 ## 🛠️ Languages and Tools:
 
