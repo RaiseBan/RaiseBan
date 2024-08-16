@@ -18,8 +18,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RaiseBan&style=flat-square&color=blue" alt=""/>
 </div>
-
-
+👨‍💻 About me:
 Cтудент 3 курса ИТМО, факультет программной инженерии и компьютероной техники.
 
 ## 🎓 Учебные проекты
@@ -38,8 +37,8 @@ Cтудент 3 курса ИТМО, факультет программной �
 - **[DevOps Setup](https://github.com/your-username/project-name)** - описание проекта.
 - **[Vue.js Website](https://github.com/your-username/project-name)** - описание проекта.
 
-## 📈 Статистика профиля
+## 🔥 My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
