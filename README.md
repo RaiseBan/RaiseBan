@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?RaiseBan=RaiseBan&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=RaiseBan&style=flat-square&color=blue" alt=""/>
 
 Cтудент 3 курса ИТМО, факультет программной инженерии и компьютероной техники.
 
