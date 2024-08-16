@@ -8,9 +8,15 @@
   <a href="https://t.me/pupaAndlll">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://t.me/pupaAndlll">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/pupaAndlll">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=RaiseBan&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=RaiseBan&style=flat-square&color=blue" alt="" align="center"/>
 
 Cтудент 3 курса ИТМО, факультет программной инженерии и компьютероной техники.
 
