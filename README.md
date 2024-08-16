@@ -39,6 +39,6 @@ Cтудент 3 курса ИТМО, факультет программной �
 
 ## 🔥 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RaiseBan&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiseBan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
