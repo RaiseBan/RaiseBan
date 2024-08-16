@@ -5,23 +5,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/pupaAndlll">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
-Я - студент 3 курса ИТМО, изучаю компьютерные науки. Увлекаюсь программированием, DevOps, и разработкой ПО. Это мой GitHub профиль, где я храню свои учебные и личные проекты.
+<img src="https://komarev.com/ghpvc/?RaiseBan=RaiseBan&style=flat-square&color=blue" alt=""/>
 
-## 🔗 Социальные сети
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Личный сайт](https://yourwebsite.com)
+Cтудент 3 курса ИТМО, факультет программной инженерии и компьютероной техники.
 
 ## 🎓 Учебные проекты
 
