@@ -1,4 +1,4 @@
-# Привет! 👋
+# Hello! 👋
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZycjdzYnVwenc2bThjOXNkaWt2bjVkbDB1YmMzNnY2NjEzY3l1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3Hu8RMcnHZA2JK6x1/giphy.gif" width="100"/>
