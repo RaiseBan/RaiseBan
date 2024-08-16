@@ -19,23 +19,43 @@
   <img src="https://komarev.com/ghpvc/?username=RaiseBan&style=flat-square&color=blue" alt=""/>
 </div>
 👨‍💻 About me:
+
 Cтудент 3 курса ИТМО, факультет программной инженерии и компьютероной техники.
 
-## 🎓 Учебные проекты
+## 🛠️ Languages and Tools:
 
-Здесь находятся мои проекты, которые я делал во время учебы в ИТМО:
-
-- **[Проект по C++](https://github.com/your-username/project-name)** - описание проекта.
-- **[Проект по Java](https://github.com/your-username/project-name)** - описание проекта.
-- **[Проект по Web-разработке](https://github.com/your-username/project-name)** - описание проекта.
-
-## 💻 Личные проекты
-
-Мои личные проекты:
-
-- **[MyCoolApp](https://github.com/your-username/project-name)** - описание проекта.
-- **[DevOps Setup](https://github.com/your-username/project-name)** - описание проекта.
-- **[Vue.js Website](https://github.com/your-username/project-name)** - описание проекта.
+<p align="left"> 
+  <a href="https://www.java.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🔥 My Stats:
 
