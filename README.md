@@ -1,7 +1,7 @@
 # Привет! 👋
 
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/62942aba7fd5bce341e03405e4199920c55b5e1c6eb0d1bb05af306fdce06bcc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323667736c4d416463744e687536596e4b2f67697068792e676966" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV0djBwa3V6NzY4dGgxODN3d21scjFieDZtZWhzMHFkbWtzOGxhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnvi6UtRmRmhP44/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
