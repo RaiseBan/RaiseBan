@@ -1,7 +1,7 @@
 # Привет! 👋
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV0djBwa3V6NzY4dGgxODN3d21scjFieDZtZWhzMHFkbWtzOGxhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnvi6UtRmRmhP44/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZycjdzYnVwenc2bThjOXNkaWt2bjVkbDB1YmMzNnY2NjEzY3l1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3Hu8RMcnHZA2JK6x1/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
