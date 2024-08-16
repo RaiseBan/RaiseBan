@@ -24,6 +24,8 @@ Cтудент 3 курса ИТМО, факультет программной �
 
 ## 🛠️ Languages and Tools:
 
+## 🛠️ Languages and Tools:
+
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> 
@@ -54,6 +56,21 @@ Cтудент 3 курса ИТМО, факультет программной �
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/serverless/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/awslambda/awslambda-icon.svg" alt="Serverless" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="Visual Basic" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
   </a>
 </p>
 
